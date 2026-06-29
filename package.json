@@ -1,0 +1,13 @@
+{
+  "name": "chandan-game-v2",
+  "version": "2.0.0",
+  "description": "Chandan Game V2 - Multiplayer survival game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
